@@ -10,5 +10,6 @@ echo '创建新的dev分支';
 echo '测试一下协同开发';
 echo 'dosomething';
 echo '修改dev分支并准备合并到master分支';
+echo '推送代码到线上';
 echo 'more';
 echo 'ggaobudonggaobudong';
