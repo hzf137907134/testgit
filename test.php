@@ -12,3 +12,4 @@ echo 'dosomething';
 echo '修改dev分支并准备合并到master分支';
 echo '推送代码到线上';
 echo 'more';
+echo 'ssssss';
