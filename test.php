@@ -11,3 +11,4 @@ echo '测试一下协同开发';
 echo 'dosomething';
 echo '修改dev分支并准备合并到master分支';
 echo 'more';
+echo 1111;
